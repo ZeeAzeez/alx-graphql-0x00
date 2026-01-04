@@ -70,6 +70,7 @@ You can execute these queries using:
 1. **GraphQL Playground/GraphiQL**: Navigate to https://rickandmortyapi.com/graphql
 
 2. **cURL**:
+
 ```bash
 curl -X POST https://rickandmortyapi.com/graphql \
   -H "Content-Type: application/json" \
@@ -81,6 +82,7 @@ curl -X POST https://rickandmortyapi.com/graphql \
 ## Learning Outcomes
 
 This project demonstrates:
+
 - Writing precise GraphQL queries for specific data
 - Using arguments (`id`) to fetch individual items
 - Structuring queries to request only necessary fields
